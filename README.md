@@ -1,4 +1,4 @@
-# Alex Morgan — Engineering Portfolio
+# Emmanuel Elias— Engineering Portfolio
 
 A high-impact, multi-page static portfolio website for a Mechanical Design & Robotics Engineer.
 
